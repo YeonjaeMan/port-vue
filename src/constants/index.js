@@ -181,3 +181,14 @@ export const portText = [
         name: "포트폴리오",
     }
 ];
+
+export const contactText = [
+  {
+      link: "https://open.kakao.com/o/gM7YLzwf",
+      title: "KAKAO : webstupids",
+  },
+  {
+      link: "mailto:webstoryboy@naver.com",
+      title: "mail : webstoryboy@naver.com",
+  },
+];
